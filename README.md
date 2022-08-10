@@ -1,4 +1,4 @@
-# aries-Calculator
+# calculator-react-native
 
 ## Description
 
